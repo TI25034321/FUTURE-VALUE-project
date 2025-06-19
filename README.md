@@ -1,1 +1,2 @@
 "# FUTURE-VALUE-project" 
+This is the code that enables the user to calculate their future value when they want to start saving money.so, this asks the user for various things such how much amount they want to save, for how long do they want to save their money and so on and so on. after the user have entered all the requirements, the future value gets calculated for them. so its easy and stright forward and you might as well want to save some money so this is the right thing to use. so yeah i'ts like your well known calculators.
