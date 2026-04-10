@@ -1,2 +1,11 @@
-"# FUTURE-VALUE-project" 
-This is the code that enables the user to calculate their future value when they want to start saving money.so, this asks the user for various things such how much amount they want to save, for how long do they want to save their money and so on and so on. after the user have entered all the requirements, the future value gets calculated for them. so its easy and stright forward and you might as well want to save some money so this is the right thing to use. so yeah i'ts like your well known calculators.
+DESCRIPTION: 
+
+This application implements the compound interest formula $A = P(1 + \frac{r}{n})^{nt}$ to determine the growth of an investment over time. It captures key financial variables, including Present Value (P), Annual Interest Rate (r), Compounding Frequency (n), and Time in Years (t), through a structured user interface. The program leverages the Java Math library to perform high precision power calculations, ensuring accuracy in complex exponential growth scenarios. By automating these calculations, the project helps users project their future savings and understand how compounding frequencies affect their capital.
+
+TOOLS:
+
+1) Java Math Library (Math.pow): Used for executing high precision exponential calculations required by the compound interest formula.
+2) Java Scanner: For robust capture and parsing of multi-type user input (double precision floating points).
+3) Financial Mathematics: Direct application of the Compound Interest theorem to solve real world investment scenarios.
+4) Data Type Management: Use of double precision variables to maintain calculation accuracy in financial data.
+
